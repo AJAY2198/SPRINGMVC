@@ -11,7 +11,6 @@ import org.springframework.web.bind.annotation.InitBinder;
 import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.RequestMapping;
 
-
 @Controller
 @RequestMapping("/customer")
 public class CustomerCon {
